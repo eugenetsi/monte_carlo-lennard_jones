@@ -43,6 +43,3 @@ From the simulations and results we observe the following:
 
 - MeshGrid https://stackoverflow.com/questions/53689868/splitting-python-meshgrid-into-cells
 - Lennard-Jones https://en.wikipedia.org/wiki/Lennard-Jones\_potential
-
-
-This project was done as part of the SDS419 course in the Cyprus Institute, MSc Data Science and Simulation.
